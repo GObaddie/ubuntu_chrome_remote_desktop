@@ -67,7 +67,7 @@ https://flight-manual.atom.io/getting-started/sections/installing-atom/#platform
 
 change the autologin conf file
 ```sh
-sudo atom --nosandbox /etc/gdm3/custom.conf
+sudo atom --no-sandbox /etc/gdm3/custom.conf
 ```
 change the line
 ```sh
