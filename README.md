@@ -7,7 +7,7 @@ Automatic login
 Atom - a great GUI text editor
 Barrier - a great KVM program (like Synergy, but free!). Lets you copy and paste between machines.
 Chrome Remote Desktop - my RDP of choice because the phone app is great for remote admin.
-Dix for checkdisk operation on boot with some M.2 drives.
+Fix for checkdisk operation on boot with some M.2 drives.
 Change from wayland to x11 for chrome remote desktop - part of a preventative measure against a login loop error
 Chrome browser
 
@@ -60,7 +60,10 @@ Follow the official guide located at:
 https://flight-manual.atom.io/getting-started/sections/installing-atom/#platform-linux
 ```
 
-As an alternative, you can use pico (a command-line editor which Ubuntu ships with) by running sudo pico file-name-here.
+As an alternative, you can use pico (a command-line editor which Ubuntu ships with) by running 
+```sh
+sudo pico file-name-here
+```
 
 # Step 2
 ---------------------------------------
